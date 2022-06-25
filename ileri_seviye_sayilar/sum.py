@@ -1,3 +1,4 @@
+"""
 sum fonksiyonu
 sum() fonksiyonu verilen değerleri toplayarak döndürür. Değerlerin liste,demet vb. şeklinde verilmesi gerekir.
 
@@ -13,3 +14,4 @@ sum([3,4,5,6,7])
 25
 sum((3,4))
 7
+"""
