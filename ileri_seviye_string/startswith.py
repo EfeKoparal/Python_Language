@@ -1,3 +1,5 @@
+"""
+
 startswith() ve endswith()
 startswith(x) : String x ile başlıyorsa True, başlamıyorsa False değeri döndürür.
 
@@ -11,3 +13,5 @@ True
 True
 "Python".endswith("az")
 False
+
+"""
